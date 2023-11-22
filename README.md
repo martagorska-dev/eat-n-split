@@ -18,8 +18,8 @@ Split a bill with your friend! 👯‍♀️
 
 
 ## Features
-- Add new friend 🧍‍♂️
-- Calculate who owns whom and how much 💵
+- Adding new friend 🧍‍♂️
+- Calculating who owns whom and how much 💵
   
 
 ## Technologies Used
@@ -53,7 +53,7 @@ Split a bill with your friend! 👯‍♀️
 - Select an existing friend or add a new one 👯‍♀️
 - Fill in the fields: "Bill value", "Your expense" and "Friend's expense" 🖊️
 - Select who paid the bill 🤑
-- Press "Split bill" button ⌨️
+- Click "Split bill" button
 
 
 ## Acknowledgements
